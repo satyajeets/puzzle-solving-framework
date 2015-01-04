@@ -1,5 +1,5 @@
 /*
- * File        : ClockVarient.cpp haha
+ * File        : ClockVarient.cpp
  * Author      : Satyajeet Shahane (sxs4844@rit.edu)
  * Description : This file contains a class representing the project part4
                  problem and a main which solves that problem using the 
